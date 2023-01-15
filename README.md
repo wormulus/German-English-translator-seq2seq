@@ -2,7 +2,7 @@
 seq2seq German/English Translator
 
 Used tensorflow + keras to make a seq2seq translator
-Uploaded a smaller .txt file for it to use to avoid github file size limits
+Uploaded a smaller .txt file for it to use to avoid github file size limits. Program when run locally w/full training is more accurate than the smaller training.
 
 This is a screenshot of the final few epochs <br>
 
