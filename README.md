@@ -1,14 +1,11 @@
 # German-English-translator-seq2seq
 seq2seq German/English Translator
 
-Used tensorflow + keras to make a seq2seq translator
-Uploaded a smaller .txt file for it to use to avoid github file size limits. Program when run locally w/full training is more accurate than the smaller training.
+Used tensorflow + keras to make a seq2seq translator <br>
+Used Google Colab for final version <br>
+Uploaded a smaller .txt file for it to use to avoid github file size limits if needed. Program when run locally w/full training is more accurate than the smaller training. Also uploaded the .zip file of the full text.
 
-This is a screenshot of the final few epochs of running 100 epochs. Looking at this, you can see that the validatiton metrics have stagnated or declined, signalling overfitting. I then looked back over the metrics and found around when that happened and adjusted the final epoch count in the code.<br>
-
-<img width="627" alt="Screenshot 2023-01-15 at 2 21 30 PM" src="https://user-images.githubusercontent.com/3958710/212562473-904c65c7-26ff-4d13-a274-0135173047e1.png">
-
-Here are some translation results.
+Here are some of the translation results.
 <br>
 <img width="445" alt="Screenshot 2023-01-15 at 2 23 05 PM" src="https://user-images.githubusercontent.com/3958710/212562542-908b6740-86a9-490a-b20a-24f8c0360aa8.png">
 <br>
